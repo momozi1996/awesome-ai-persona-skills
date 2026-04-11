@@ -1,0 +1,86 @@
+# AI 赛博人格蒸馏技能（Skill）完整汇总表
+
+---
+
+## 一、职场 & 自媒体系列
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 同事.skill | 蒸馏真实同事的沟通风格与协作习惯，生成 AI 同事 | https://github.com/titanwings/colleague-skill |
+| 老板.skill | 提炼老板决策逻辑、评审风格，解放自身生产力 | https://github.com/vogtsw/boss-skills |
+| 女娲.skill | 通用人格蒸馏工具，自动提炼任何人的心智与表达 | https://github.com/alchaincyf/nuwa-skill |
+| 自己.skill | 蒸馏自身语料，打造数字分身与第二大脑 | https://github.com/notdog1998/yourself-skill |
+| 蒸馏.skill | 人格蒸馏引擎，支持自己/亲友/他人角色构建 | https://github.com/YIKUAIBANZI/forge-skill |
+| 反蒸馏.skill | 技能文档“投毒”，核心知识自留，打工人自保 | https://github.com/leilei926524-tech/anti-distill |
+| 博主.skill | 基于社媒语料生成可对话自媒体人格 | https://github.com/YourongZhou/chat_with_me |
+| X导师.skill | Twitter/X 运营导师，推文写作与账号诊断 | https://github.com/alchaincyf/x-mentor-skill |
+| HR.skill | 从招聘流程反向拆解 HR 筛选与决策模式 | https://github.com/Schlaflied/hr-skill |
+| 大学老师.skill | 提炼教学风格、评分逻辑、复习重点与出题偏好 | https://github.com/CommitHu502Craft/professor-skill |
+| 导师.skill | 学术导师指导风格、研究偏好与评审逻辑 |https://github.com/ybq22/supervisor|
+| 师兄.skill | 课题组师兄技术风格、解题思路与指导方式 | https://github.com/zhanghaichao520/senpai-skill |
+
+---
+
+## 二、名人思维系列
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 乔布斯.skill | 产品审美、现实扭曲力场、演讲与决策风格 | https://github.com/alchaincyf/steve-jobs-skill |
+| 马斯克.skill | 第一性原理、极致执行力、推文与战略思维 | https://github.com/alchaincyf/elon-musk-skill |
+| 芒格.skill | 多元思维模型、反向思考、投资决策框架 | https://github.com/alchaincyf/munger-skill |
+| 费曼.skill | 极简讲解、复杂问题拆解、高效学习法 | https://github.com/alchaincyf/feynman-skill |
+| 纳瓦尔.skill | 财富逻辑、幸福哲学、杠杆与判断力框架 | https://github.com/alchaincyf/naval-skill |
+| 塔勒布.skill | 黑天鹅、反脆弱、风险与不确定性判断 | https://github.com/alchaincyf/taleb-skill |
+| 张一鸣.skill | 算法思维、产品迭代、延迟满足与管理哲学 | https://github.com/alchaincyf/zhang-yiming-skill |
+| 张雪峰.skill | 升学志愿、职业规划、接地气建议与吐槽 | https://github.com/alchaincyf/zhangxuefeng-skill |
+| Paul Graham.skill | 创业、写作、独立思考与产品哲学 | https://github.com/alchaincyf/paul-graham-skill |
+| Karpathy.skill | AI 教学、工程直觉、深度学习实践思维 | https://github.com/alchaincyf/karpathy-skill |
+| Ilya Sutskever.skill | AGI 认知、模型哲学、对齐与前沿判断 | https://github.com/alchaincyf/ilya-sutskever-skill |
+| MrBeast.skill | 爆款逻辑、病毒传播、短视频内容创作 | https://github.com/alchaincyf/mrbeast-skill |
+| 特朗普.skill | 谈判风格、舆论话术、权力博弈思维 | https://github.com/alchaincyf/trump-skill |
+| 毛泽东.skill | 战略判断、矛盾分析、调查研究方法论 | - |
+| 毛选.skill | 实事求是、群众路线、根据地思维 | - |
+| 新青年.Skill | 蒸馏毛选全文，形成现实分析与决策技能 | - |
+| 郭德纲.skill | 语言结构、幽默表达、人情世故判断 | - |
+| 峰哥亡命天涯 Skill | 现实主义、止损思维、黑色幽默表达 | - |
+
+---
+
+## 三、亲密关系 & 生活系列
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 前任.skill | 蒸馏前任语气与共同记忆，模拟对话 | https://github.com/therealXiaomanChu/ex-skill |
+| 父母.skill | 提炼亲人语气、习惯与家庭记忆 | - |
+| MamaSkill | 基于语音与聊天构建家人陪伴 AI | - |
+| 兄弟.skill | 蒸馏好友说话风格、口头禅与社交模式 | - |
+| 暗恋对象.skill | 从聊天记录模拟对话风格，用于情感练习 | - |
+| 恋爱训练营.skill | 模拟心动对象，练习表达、邀约与沟通 | - |
+| Reunion Skill | 基于数字遗物构建已故亲友纪念型 AI | - |
+
+---
+
+## 四、玄学 & 术数系列
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 赛博算命.skill | 八字排盘、四柱命理、运势分析 | https://github.com/jinchenma94/bazi-skill |
+| 月老·姻缘测算.skill | 术数合婚、桃花分析、姻缘测算 | https://github.com/Ming-H/yinyuan-skills |
+| 奇门遁甲、紫微斗数.skill | 低幻觉排盘，传统术数 AI 分析 | https://github.com/FANzR-arch/Numerologist_skills |
+| 大师.skill | 汉传佛教祖师大德风格讲解与对话 | https://github.com/xr843/Master-skill |
+| 金刚经.skill | 基于金刚经的讲解、对话与解读框架 | - |
+
+---
+
+## 五、元工具 & 特殊技能
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 图鉴.skill | Skill 调度器，按意图智能推荐角色 | - |
+| 数字人生.skills | 从数字痕迹提炼结构化自我画像 | - |
+| 永生.skill | 多维人格蒸馏，实现数字永生 | - |
+| midas.skill | 财富模型蒸馏，挖掘个人财富信号 | - |
+| 数字生命开源计划 | 个人知识库 → 数字分身框架 | - |
+| VibePortrait | 从对话提炼开发者风格与技术偏好 | - |
+| 户晨风.skill | 消费现实主义视角，职业/城市分析 | - |
+
+---
+
+### 说明
+- 无地址项为原 awesome 仓库收录但未附外链，可 GitHub 直接搜 Skill 名称查找
+- 全部遵循 Skill 流规范，可直接导入支持 Agent Skill 的 AI 平台使用
