@@ -1,12 +1,59 @@
 # 作家Skill库 · 赛博造人术
 
-> 用AI蒸馏人类作家的创作思维，构建可运行的写作Agent。
+
+<h1 align="center"> 作家小说家.skill</h1>
+
+<p align="center">
+「你想复活的下一个作家，何必是当代」
+蒸馏小说家灵魂 · 复刻文风基因 · 用 AI 复活你最爱的作家
+用AI蒸馏人类作家的创作思维，构建可运行的写作Agent。
+</p>
+
+<p align="center">
+<code>License MIT</code>
+<code>nuwa-skill Compatible</code>
+<code>StepClaw Ready</code>
+</p>
+
+<p align="center">
+用女娲蒸馏顶级作家的灵魂，让莫言、张爱玲、余华、刘慈欣都给你当笔杆子。
+</p>
+
+<p align="center">
+<a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
+那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
+只需输入一个名字，自动完成调研、风格拆解、模型蒸馏全流程。
+</p>
+
+<p align="center">
+<a href="#效果示例">看效果</a> · <a href="#快速开始">安装</a> · <a href="#作家skill目录">作家列表</a> · <a href="#工作原理">工作原理</a>
+</p>
+
+---
+
+<p align="center">
+### 其他语言 / Other Languages:
+</p>
+
+<p align="center">
+<a href="./README_EN.md">English</a>
+</p>
+
+
+✨ 这是什么？
+这不是普通的文集摘抄，也不是风格模仿模板。我们用「女娲蒸馏」技术，拆解作家的：
+叙事 DNA、语感与节奏、人物塑造逻辑、世界观偏好、意象与象征体系、对话与情绪表达方式
+
+基于 nuwa-skill 打造的作家风格复刻库，把顶级小说家的叙事节奏、语感、视角与世界观，炼成可直接调用的写作 Skill。
+致谢
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 
 ## 简介
 
 这个仓库收录了 7+位华语作家的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
 每个Skill都包含了作家的核心心智模型、表达DNA、决策启发式和经典作品分析。
 
+🧪使用场景： 
 你可以用这些Skill来：
 - 模仿特定作家的写作风格
 - 获取创作灵感和构思框架
@@ -17,7 +64,6 @@
 
 ## 作家Skill目录
 
-
 | 作家 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
 |------|------|----------|-----------|-----------|
 |   🌟**刘慈欣**   | 科幻小说 | 硬科幻、宏大叙事、科学概念→社会冲突、黑暗森林法则、降维打击。擅长：硬科幻设定、宏大叙事结构、科学概念具象化、文明冲突。 | [liucixin-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/liucixin-skill/SKILL.md) |触发词：「刘慈欣视角」「像刘慈欣那样写」「黑暗森林」「降维打击」。|
@@ -27,17 +73,19 @@
 |    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。 | [ximurong-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「像席慕容那样写」「乡愁」「开花的树」|
 |    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
 |    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [li bihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
+|    🌟**当年明月** |-|-|-|-|
 |    🌟**南派三叔** |-|-|-|-|
 |    🌟**天下霸唱** |-|-|-|-|
 |    🌟**唐家三少** |-|-|-|-|
-|    🌟**当年明月** |-|-|-|-|
 |    🌟**天蚕土豆** |-|-|-|-|
 |    🌟**墨香铜臭** |-|-|-|-|
+
+> 持续更新中：南派三叔 / 天下霸唱 / 唐家三少  / 天蚕土豆 / 墨香铜臭
 
 
 ---
 
-## 怎么赛博蒸馏Skill？
+## 🚀 快速开始：怎么赛博蒸馏Skill？
 
 ### 1. 安装女娲Skill
 
@@ -57,15 +105,15 @@ npx skills add alchaincyf/nuwa-skill
 构造一个最像他的。
 ```
 
-### 3. 等待OpenClaw完成任务 (我自己用的阶跃的stepclaw)
+### 3. 等待OpenClaw完成任务 (本人使用：阶跃 AI・StepClaw)
 
 系统会自动启动6个并行Agent进行多维度调研：
-- 著作与创作理念
-- 长对话与访谈
-- 表达DNA与风格
-- 他者视角与批评
-- 决策与转折点
-- 时间线
+- 1. 著作与创作理念
+- 2. 长对话与访谈
+- 3. 表达DNA与风格
+- 4. 他者及评论界视角与批评
+- 5. 创作决策与转折点
+- 6. 人生时间线
 
 ### 4. 保存到本地
 
@@ -77,6 +125,7 @@ npx skills add alchaincyf/nuwa-skill
 ```
 
 ---
+
 
 ## 效果示例
 
