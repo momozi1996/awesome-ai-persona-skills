@@ -127,6 +127,7 @@ npx skills add alchaincyf/nuwa-skill
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
 | 🔆华夏老祖宗.skill | 华夏老祖宗智慧：老祖宗指出你的认知偏差，直接给融合方案，还带口音——34个框架，每个都有独特的分析方法和专属口吻：| https://github.com/liangjfblue/huaxia-wisdom |
+|🌲灵根 Linggen | 给它一个世界和一个名字，它生成一个拥有 6 层内部结构的 AI 人格：层⁶-神话底座；层⁵-历史节律；层⁴-本体论承诺；层³-价值序列；层²-认知风格；层¹-声线|https://github.com/Jimlinsen/linggen|
 | ❤ 赛博算命.skill | 八字排盘、四柱命理、运势分析 | https://github.com/jinchenma94/bazi-skill |
 | 💟 月老·姻缘测算.skill | 术数合婚、桃花分析、姻缘测算 | https://github.com/Ming-H/yinyuan-skills |
 | 🌸奇门遁甲、紫微斗数.skill | 低幻觉排盘，传统术数 AI 分析 | https://github.com/FANzR-arch/Numerologist_skills |
