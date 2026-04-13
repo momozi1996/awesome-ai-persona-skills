@@ -76,9 +76,10 @@
 |    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
 |    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [libihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
 |    🌟**三毛**  |爱情小说 |三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。擅长：流浪文学、真挚散文、爱情叙事、自由精神、感性表达。| [sanmao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/sanmao-skill/SKILL.md)|  触发词：「三毛视角」「像三毛那样写」「撒哈拉」「前世乡愁」「每想你一次」。 |
-|    🌟**鲁迅**  |------|----------|-----------|-----------|
-|    🌟**老舍**  |------|----------|-----------|-----------|
-|    🌟**史铁生**  |------|----------|-----------|-----------|
+|    🌟**鲁迅**  |小说&杂文|鲁迅批判现实主义思维——国民性批判、匕首投枪、冷峻白描、绝望抗战。擅长：国民性批判、讽刺杂文、冷峻叙事、启蒙救亡、绝望中的抗争。|[luxun.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/luxun-skill/SKILL.md)|触发词：「鲁迅视角」「像鲁迅那样写」「阿Q精神」「吃人」「铁屋子」。|
+|    🌟**老舍**  |小说&杂文|----------|[]()|-----------|
+|    🌟**史铁生**  |小说&杂文|史铁生生死哲思思维——轮椅上的哲思、苦难中的超越、地坛的沉思、生死之问。  擅长：生死哲思、苦难超越、内省散文、地坛意象、轮椅上的思考。|[shitiesheng.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/shitiesheng-skill/SKILL.md)| 触发词：「史铁生视角」「像史铁生那样写」「我与地坛」「死是一件不必急于求成的事」。 |
+
 > 持续更新中： 金庸 / 古龙 / 王小波 / 汪曾祺/ 林清玄 / 冰心/ ...
 
 ### 二、网文小说家
