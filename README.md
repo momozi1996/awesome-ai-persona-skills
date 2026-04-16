@@ -1,4 +1,4 @@
-# 🥰 小说家& 作家 Skill库 · 赛博永生 🥰
+# 🥰 赛博永生 skill 仓库 🥰 awesome-ai-persona-skills
 
 
 <h1 align="center"> 作家小说家.skill</h1>
