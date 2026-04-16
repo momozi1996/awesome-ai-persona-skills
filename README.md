@@ -2,6 +2,8 @@
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
+<h1 align="center"> 全网最全的100+ 人格skills </h1>
+
 
 <p align="center">
 「🔥 全网100+AI人格合集 + 原创小说家文风蒸馏 · 赛博永生🥰<br>
