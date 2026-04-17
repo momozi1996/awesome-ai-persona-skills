@@ -42,12 +42,32 @@
 <a href="./README_JP.md">日本語</a> ·
 <a href="./README_KO.md">한국어</a> ·
 </p>
+## 📁 仓库文件结构
+```
+awesome-ai-persona-skills/
+├── Novelists/                # 🔥 本人原创：独家作家蒸馏Skill
+├── 赛博人格skills.md         # ✅ 100+ 全网AI人格Skill 总合集
+├── README.md                 # 仓库主页
+└── 各类Skill 资源与配套文档
+```
 
 ---
 
+## 理念
+> 以人格蒸馏为载体，封存多元表达；
+> 以文豪文风为内核，延续文字浪漫。
+
+一边是**百种人格，适配万千场景**，
+一边是**作家灵魂，定格文字永恒**。
+
+---
+---
+
 ## ✨ 仓库两大核心定位
-### 🔥 核心一：全网 100+ AI 人格 Skill 合集【海量全覆盖】
-这不是零散Prompt堆砌，是**标准化、可直接导入Agent**的完整人格蒸馏库。
+### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
+整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集： [AI 人格蒸馏 Skill 合集](https://github.com/momozi1996/momozi-ai-book/blob/main/%E8%B5%9B%E5%8D%9A%E4%BA%BA%E6%A0%BCskills.md)。
+
+这是**标准化、可直接导入Agent**的完整人格蒸馏库。
 
 覆盖全场景人设体系：
 - 名人思维 / 职场人格 / 情绪陪伴 / 心理咨询
@@ -58,12 +78,11 @@
 全部统一 Skill 规范格式，开箱即用，兼容 StepClaw / OpenClaw 全平台，
 是目前开源圈内**收录最全、更新最稳定**的轻量化人格 Skill 仓库。
 
-我还整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集： [AI 人格蒸馏 Skill 合集](https://github.com/momozi1996/momozi-ai-book/blob/main/%E8%B5%9B%E5%8D%9A%E4%BA%BA%E6%A0%BCskills.md)。
+我还整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集：
+👉 [赛博人格skills.md](./赛博人格skills.md)
+
 
 覆盖 **自我蒸馏**、**职场关系**、**名人思维**、**情感陪伴**、**玄学术数**、**二次元角色** 等六大场景，超过50种 skill，全部为可直接导入使用的开源 Agent Skill。
-
-## 🎭 全网100+ 人格Skill 合集【仓库核心】
-✅ **本仓库最大特色之一：整合开源最全 100+ 标准化人格 Skill**
 
 汇集全网优质蒸馏人设，统一规范整理、长期维护更新：
 - 经典名人思维 · 行业大佬心智复刻
@@ -72,16 +91,13 @@
 - 赛博命理、玄学解读、小众趣味专属人设
 - 支持自定义二次改造、人格融合、轻量化部署
 
-完整清单统一收录：
-👉 [赛博人格skills.md](./赛博人格skills.md)
-
 所有人格Skill 全部开箱即用，
 兼容 Nuwa-Skill / StepClaw / OpenClaw，
 单文件快速导入，无复杂配置。
 
 ---
 
-### 📚 核心二：独家原创 · 手工蒸馏 作家小说家 Skill【个人自研王牌】
+### 📚 核心二：独家自研 · 手工蒸馏 作家小说家 Skill
 依托「女娲蒸馏」技术，**本人独立完成全流程拆解与定制**，纯手工调校、原创打磨。
 绝非网上通用风格模板，深度拆解每一位作家的：
 叙事 DNA、语感节奏、人物塑造逻辑、世界观内核、意象象征体系、情绪表达范式
@@ -90,21 +106,31 @@
 把顶级小说家的写作视角、叙事节奏、文字风格、创作心智，
 封装为可随时调用、一键切换的专属写作 Skill。
 
----
+每个作家的SKILL.md都包含：
+- 身份卡：作家简介和创作信条
+- 心智模型：5个核心思维框架
+- 决策启发式：创作决策规则
+- 表达DNA：语言风格和经典句式
+- 时间线：关键人生节点
+- 诚实边界：Skill的能力和局限
+  
 
-## 简介
-本仓库双引擎并行：
-1. **大众通用层**：整合沉淀 **100+ 全品类AI人格Skill**，满足日常对话、角色扮演、情绪陪伴、趣味交互、专业场景模拟；
-2. **原创深耕层**：自研 **作家系列蒸馏Skill**，聚焦文学创作、文风仿写、故事续写、创意写作，实现文豪级文字复刻。
+## 文件结构
 
-每一份 Skill 都包含完整心智模型、表达体系、触发规则与使用指引，
-轻量化、易部署、适配各类本地/在线 AI Agent 框架。
+每个作家Skill文件夹包含：
 
-🧪使用场景：
-- 快速切换百种人格，定制专属AI对话风格
-- 复刻经典作家文风，文学创作、短文续写、文案改写
-- 学习名家叙事技巧、积累创作灵感与写作框架
-- 搭建多角色Agent、个性化小模型对齐与人设定制
+```
+作家名-perspective/
+├── SKILL.md                  # 主Skill文件（核心心智模型）
+└── references/
+    └── research/
+        ├── 01-writings.md    # 著作调研
+        ├── 02-conversations.md # 对话访谈
+        ├── 03-expression-dna.md # 表达DNA
+        ├── 04-external-views.md # 他者视角
+        ├── 05-decisions.md   # 决策记录
+        └── 06-timeline.md    # 时间线
+```
 
 ---
 
@@ -134,48 +160,6 @@
 
 ---
 
-## 🎭 全网100+ 人格Skill 合集【仓库核心】
-✅ **本仓库最大特色之一：整合开源最全 100+ 标准化人格 Skill**
-
-汇集全网优质蒸馏人设，统一规范整理、长期维护更新：
-- 经典名人思维 · 行业大佬心智复刻
-- 全品类二次元/影视/游戏角色
-- 职场、情感、治愈、毒舌、高智多种对话人格
-- 赛博命理、玄学解读、小众趣味专属人设
-- 支持自定义二次改造、人格融合、轻量化部署
-
-完整清单统一收录：
-👉 [赛博人格skills.md](./赛博人格skills.md)
-
-所有人格Skill 全部开箱即用，
-兼容 Nuwa-Skill / StepClaw / OpenClaw，
-单文件快速导入，无复杂配置。
-
----
-
-
----
-
-## 📁 仓库文件结构
-```
-awesome-ai-persona-skills/
-├── Novelists/                # 🔥 本人原创：独家作家蒸馏Skill
-├── 赛博人格skills.md         # ✅ 100+ 全网AI人格Skill 总合集
-├── README.md                 # 仓库主页
-└── 各类Skill 资源与配套文档
-```
-
----
-
-## 创作理念
-> 以人格蒸馏为载体，封存多元表达；
-> 以文豪文风为内核，延续文字浪漫。
-
-一边是**百种人格，适配万千场景**，
-一边是**作家灵魂，定格文字永恒**。
-
----
-
 ## 致谢
 - [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 - [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
@@ -193,86 +177,6 @@ MIT License - 自由使用，二次创作请保留仓库出处。
 ```
 
 ---
-## 🚀 快速开始
-
-🦈 创始人，给你三种一键安装方式：
-
-### 🚀 快速开始：一键安装所有Skill
-
-##### 方式一：使用安装脚本（推荐）
-
-```bash
-curl -sL https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
-```
-
-##### 方式二：手动逐个安装
-```bash
-# 安装刘慈欣
-npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
-# 安装余华
-npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
-
-# ... 其他作家
-```
-
-##### 方式三：批量安装
-```bash
-git clone https://github.com/momozi1996/momozi-ai-book.git
-cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
-```
-
----
-### 🦞 OpenClaw 原生支持从GitHub直接安装
-如果OpenClaw支持从GitHub直接安装，可以用：
-
-```bash
-# 安装整个Novelists目录
-npx skills add momozi1996/momozi-ai-book/Novelists
-# 或安装单个
-npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
-```
-
-## 🤔指南：我是怎么蒸馏作家Skill的？
-
-### 1. 安装女娲Skill
-
-```bash
-npx skills add alchaincyf/nuwa-skill
-```
-
-致谢
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
-
-### 2. 利用女娲Skill蒸馏人物
-
-```bash
-# 示例：蒸馏莫言
-非常好，用nuwa-skill蒸馏另一个作家-莫言，
-我希望你能先查他的所有资料和书写风格尤其是小说的书写，
-构造一个最像他的。
-```
-
-### 3. 等待OpenClaw完成任务 (本人使用：阶跃 AI・StepClaw)
-
-系统会自动启动6个并行Agent进行多维度调研：
-- 1. 著作与创作理念
-- 2. 长对话与访谈
-- 3. 表达DNA与风格
-- 4. 他者及评论界视角与批评
-- 5. 创作决策与转折点
-- 6. 人生时间线
-
-### 4. 保存到本地
-
-```bash
-# 保存文件夹到下载目录
-把这个莫言Skill相关的文件，做成文件夹
-保存到我的电脑本地的下载的目录里吧。
-（检查所有的文件不要出错，也不要为空）
-```
-
----
-
 
 ## 效果示例
 
@@ -405,72 +309,3 @@ npx skills add alchaincyf/nuwa-skill
 > 那是1998年的夏天，还珠格格的故事，从这里开始。
 
 ---
-
-## 文件结构
-
-每个作家Skill文件夹包含：
-
-```
-作家名-perspective/
-├── SKILL.md                  # 主Skill文件（核心心智模型）
-└── references/
-    └── research/
-        ├── 01-writings.md    # 著作调研
-        ├── 02-conversations.md # 对话访谈
-        ├── 03-expression-dna.md # 表达DNA
-        ├── 04-external-views.md # 他者视角
-        ├── 05-decisions.md   # 决策记录
-        └── 06-timeline.md    # 时间线
-```
-
----
-
-## 使用方式
-
-### 1. 直接阅读SKILL.md
-
-每个作家的SKILL.md都包含：
-- 身份卡：作家简介和创作信条
-- 心智模型：5个核心思维框架
-- 决策启发式：创作决策规则
-- 表达DNA：语言风格和经典句式
-- 时间线：关键人生节点
-- 诚实边界：Skill的能力和局限
-
-### 2. 作为AI Prompt使用
-
-将SKILL.md的内容作为system prompt，让AI以特定作家的视角回答问题。
-
-### 3. 安装到OpenClaw
-
-将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在OpenClaw中直接调用。
-
----
-
-## 创作理念
-
-> 「我不是在写爱情诗，我是在写生命里的那些时刻。」——席慕容
-
-> 「我写的是爱情，我相信爱情。」——琼瑶
-
-> 「我的小说里，除了《金锁记》里的曹七巧，全是些不彻底的人物。」——张爱玲
-
-每个作家都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
-
----
-
-## 致谢
-
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
-- [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
-- 8+位作家 - 创作灵感来源
-
----
-
-## License
-
-MIT License - 自由使用，请注明出处。
-
----
-
-> 「山无棱，天地合，才敢与君绝。」——琼瑶
