@@ -135,23 +135,41 @@ awesome-ai-persona-skills/
 
 | 　　　作家　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
 |-----------|------|----------|-----------|-----------|
-|   🌟**刘慈欣**   | 科幻小说 | 硬科幻、宏大叙事、科学概念→社会冲突、黑暗森林法则、降维打击。 | [liucixin-skill](./Novelists/liucixin-skill/SKILL.md) |触发词：「刘慈欣视角」「像刘慈欣那样写」|
-|   🌟**余华**     | 小说 | 苦难叙事、冷峻温情、民间视角、时间重构。 | [yuhua-skill](./Novelists/yuhua-skill/SKILL.md) | 触发词：「余华视角」「像余华那样写」|
-|    🌟**莫言**    | 小说 | 魔幻现实、高密东北乡、民间叙事、感官爆炸、多重视角。 | [moyan-skill](./Novelists/moyan-skill/SKILL.md) |触发词：「莫言视角」「魔幻现实主义」|
-|    🌟**张爱玲**  | 小说 | 苍凉美学、参差对照、物质细节、心理现实主义、沪港双城。 | [zhangailing-skill](./Novelists/zhangailing-perspective/SKILL.md) |触发词：「张爱玲视角」「苍凉美学」|
-|    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。 | [ximurong-skill](./Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「乡愁」|
-|    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。 | [qiongyao-skill](./Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「古风言情」|
-|    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、宿命轮回。| [libihua-skill](./Novelists/libihua-skill/SKILL.md)| 触发词：「李碧华视角」「奇情诡谲」 |
-|    🌟**三毛**  |散文/旅行文学 |真挚感性、自由灵魂、流浪叙事、生死诗意。| [sanmao-skill](./Novelists/sanmao-skill/SKILL.md)| 触发词：「三毛视角」「撒哈拉叙事」 |
+|   🌟**刘慈欣**   | 科幻小说 | 硬科幻、宏大叙事、科学概念→社会冲突、黑暗森林法则、降维打击。擅长：硬科幻设定、宏大叙事结构、科学概念具象化、文明冲突。 | [liucixin-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/liucixin-skill/SKILL.md) |触发词：「刘慈欣视角」「像刘慈欣那样写」「黑暗森林」「降维打击」。|
+|   🌟**余华**     | 小说 | 苦难叙事、冷峻温情、民间视角、时间重构。触发词：「余华视角」「像余华那样写」。擅长：用朴素语言写沉重主题、第一人称自述、重复叙事结构、苦难中的温情。 | [yuhua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/yuhua-skill/SKILL.md) | 触发词：「余华视角」「像余华那样写」。擅长：用朴素语言写沉重主题、第一人称自述、重复叙事结构、苦难中的温情。|
+|    🌟**莫言**    | 小说 | 魔幻现实、高密东北乡、民间叙事、感官爆炸、多重视角。擅长：动物视角叙事、通感修辞、民间故事重构、历史与当代交织。 | [moyan-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/moyan-skill/SKILL.md) |触发词：「莫言视角」「像莫言那样写」「高密东北乡」「幻觉现实主义」。|
+|    🌟**张爱玲**  | 小说 | 苍凉美学、参差对照、物质细节、心理现实主义、沪港双城。擅长：都市男女情感、物质细节描写、心理刻画、华丽与苍凉的交织。 | [zhangailing-skill](./zhangailing-perspective/) |触发词：「张爱玲视角」「像张爱玲那样写」「苍凉美学」「参差对照」。|
+|    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。 | [ximurong-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「像席慕容那样写」「乡愁」「开花的树」|
+|    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
+|    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [libihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
+|    🌟**三毛**  |爱情小说 |三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。擅长：流浪文学、真挚散文、爱情叙事、自由精神、感性表达。| [sanmao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/sanmao-skill/SKILL.md)|  触发词：「三毛视角」「像三毛那样写」「撒哈拉」「前世乡愁」「每想你一次」。 |
+|    🌟**鲁迅**  |小说&杂文|鲁迅批判现实主义思维——国民性批判、匕首投枪、冷峻白描、绝望抗战。擅长：国民性批判、讽刺杂文、冷峻叙事、启蒙救亡、绝望中的抗争。|[luxun.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/luxun-skill/SKILL.md)|触发词：「鲁迅视角」「像鲁迅那样写」「阿Q精神」「吃人」「铁屋子」。|
+|    🌟**老舍**  |小说&杂文|老舍京味儿文学思维——市民生活、幽默悲凉、茶馆里的中国、读书人的气节。  擅长：京味儿文学、市民生活、幽默悲凉、戏剧对话、白描手法。|[laoshe.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/laoshe-skill/SKILL.md)|触发词：「老舍视角」「像老舍那样写」「骆驼祥子」「茶馆」「含泪的笑」。|
+|    🌟**史铁生**  |小说&杂文|史铁生生死哲思思维——轮椅上的哲思、苦难中的超越、地坛的沉思、生死之问。  擅长：生死哲思、苦难超越、内省散文、地坛意象、轮椅上的思考。|[shitiesheng.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/shitiesheng-skill/SKILL.md)| 触发词：「史铁生视角」「像史铁生那样写」「我与地坛」「死是一件不必急于求成的事」。 |
 
-> 持续更新中： 金庸/ 鲁迅 / 古龙 /老舍/史铁生/ 王小波 / 汪曾祺 等
+> 持续更新中： 金庸 / 古龙 / 王小波 / 汪曾祺/ 林清玄 / 冰心/ ...
 
-### 二、网文&通俗小说家
+### 二、网文小说家
 | 　　　作家　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
 |-----------|------|----------|-----------|-----------|
-|    🌟**当年明月** |历史小说|幽默通俗叙事、现代视角解构历史、人性与权力剖析。|[dangnianmingyue-skill](./Novelists/dangnianmingyue-skill/SKILL.md)|触发词：「当年明月视角」「通俗历史写作」|
+|🌟**当年明月** |历史小说|当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。 擅长：历史通俗写作、幽默叙事、人物心理分析、权力斗争描写、现代语言解构历史。|[dangnianmingyue-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/dangnianmingyue-skill/SKILL.md)|触发词：「当年明月视角」「像当年明月那样写」「明朝那些事儿」「历史通俗化」。|
+| 🌟**南派三叔**|奇幻小说|南派三叔盗墓探险思维——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。|[nanpaisanshu.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/nanpaisanshu-skill/SKILL.md)|触发词：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。|
+|🌟**天下霸唱**|------|----------|[]()|-----------|
 
-> 持续更新：南派三叔 / 天下霸唱 / 烽火戏诸侯 / 猫腻 / Priest
+> 持续更新中： 墨香铜臭 / 唐家三少  / 天蚕土豆  / 烽火戏诸侯/ 猫腻 / 辰东 / 烽火 / 耳根 / priest
+
+### 三、AI行业大V
+| 　　自媒体大V　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
+|-----------|------|----------|-----------|-----------|
+|-----------|------|----------|[]()|-----------|
+
+> 持续更新中： 秋芝/数字生命卡兹克/赛文乔伊/赛博禅心/量子位/新智元/极客公园/特工宇宙/硅星人/机器之心/极客公园
+
+### 四、网红大V
+| 　　自媒体大V　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
+|-----------|------|----------|-----------|-----------|
+|-----------|------|----------|[]()|-----------|
+> 持续更新中： 李诞/罗永浩/徐志胜/付恒
 
 ---
 
