@@ -80,6 +80,10 @@ awesome-ai-persona-skills/
 全部统一 Skill 规范格式，开箱即用，兼容 StepClaw / OpenClaw 全平台，
 是目前开源圈内**收录最全、更新最稳定**的轻量化人格 Skill 仓库。
 
+| 图片　 |  图片 |
+|-----------|------|
+|<img width="970" height="972" alt="20260417-232240" src="https://github.com/user-attachments/assets/e0035341-c66b-4bf0-b728-a3af24d3d38e" />|<img width="982" height="898" alt="20260417-232246" src="https://github.com/user-attachments/assets/b98a519a-fd81-4911-80a7-db63860753f5" />|
+|<img width="1042" height="1128" alt="20260417-232250" src="https://github.com/user-attachments/assets/7b2b4acf-fc31-42cb-80ff-9924e02d603f" />|<img width="1046" height="1024" alt="20260417-232256" src="https://github.com/user-attachments/assets/c46c5aad-5072-417d-b262-49dad349134c" />|
 
 所有人格Skill 全部开箱即用，
 兼容 Nuwa-Skill / StepClaw / OpenClaw，
