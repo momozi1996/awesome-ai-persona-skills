@@ -1,4 +1,4 @@
-# 🥰 赛博永生 skill 仓库 🥰 awesome-ai-persona-skills
+# 赛博人格永生*skill：awesome-ai-persona-skills
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
 「🔥 全网100+AI人格合集 + 原创小说家文风蒸馏 · 赛博永生🥰<br>
- 「✨ 这里有全网最全的100+ 人格skill 」<br>
+ 「✨ 这里有全网最全的人格skill 」<br>
 「那何必只蒸馏同事？？蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
 </p>
 
@@ -61,15 +61,17 @@ awesome-ai-persona-skills/
 一边是**作家灵魂，定格文字永恒**。
 
 ---
----
 
 ## ✨ 仓库两大核心定位
 ### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
-整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集： [AI 人格蒸馏 Skill 合集](https://github.com/momozi1996/momozi-ai-book/blob/main/%E8%B5%9B%E5%8D%9A%E4%BA%BA%E6%A0%BCskills.md)。
+整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集： 
+👉 [赛博人格skills.md](./赛博人格skills.md)
 
 这是**标准化、可直接导入Agent**的完整人格蒸馏库。
 
-覆盖全场景人设体系：
+覆盖 **自我蒸馏**、**职场关系**、**名人思维**、**情感陪伴**、**玄学术数**、**二次元角色** 等场景，超过50种 skill，全部为可直接导入使用的开源 Agent Skill。
+
+汇集全网优质蒸馏人设，统一规范整理、长期维护更新：
 - 名人思维 / 职场人格 / 情绪陪伴 / 心理咨询
 - 二次元角色 / 影视人物 / 经典IP人设
 - 玄学术数 / 赛博命理 / 小众趣味人格
@@ -78,18 +80,6 @@ awesome-ai-persona-skills/
 全部统一 Skill 规范格式，开箱即用，兼容 StepClaw / OpenClaw 全平台，
 是目前开源圈内**收录最全、更新最稳定**的轻量化人格 Skill 仓库。
 
-我还整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集：
-👉 [赛博人格skills.md](./赛博人格skills.md)
-
-
-覆盖 **自我蒸馏**、**职场关系**、**名人思维**、**情感陪伴**、**玄学术数**、**二次元角色** 等六大场景，超过50种 skill，全部为可直接导入使用的开源 Agent Skill。
-
-汇集全网优质蒸馏人设，统一规范整理、长期维护更新：
-- 经典名人思维 · 行业大佬心智复刻
-- 全品类二次元/影视/游戏角色
-- 职场、情感、治愈、毒舌、高智多种对话人格
-- 赛博命理、玄学解读、小众趣味专属人设
-- 支持自定义二次改造、人格融合、轻量化部署
 
 所有人格Skill 全部开箱即用，
 兼容 Nuwa-Skill / StepClaw / OpenClaw，
