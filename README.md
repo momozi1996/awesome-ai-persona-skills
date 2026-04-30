@@ -1,4 +1,4 @@
-# 赛博人格永生 skills
+# 赛博人格永生 skills （纯公益）
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
@@ -6,6 +6,7 @@
 
 
 <p align="center">
+ 「🔥为了人类文化传承和延续，这件事值得纯公益做下去 🙏 🥰<br>
 「🔥 全网最全、100+AI人格合集 + 原创小说家文风蒸馏 · 赛博永生🥰<br>
   「最全中文AI人格蒸馏Skills合集｜名人/古籍/二次元/职场/情感全品类人格预设<br>
  「✨ 这里有全网最全的人格skill 」<br>
