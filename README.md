@@ -16,6 +16,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT"></a>
 <a href="https://github.com/alchaincyf/nuwa-skill"><img src="https://img.shields.io/badge/nuwa--skill-Compatible-purple.svg" alt="nuwa-skill Compatible"></a>
 <a href="https://www.stepfun.ai/"><img src="https://img.shields.io/badge/StepClaw-Ready-green.svg" alt="StepClaw Ready"></a>
+<a href="https://socialistic.ai/zh/skill/awesome-ai-persona-skills-861cfd?utm_source=github&utm_medium=readme&utm_campaign=20260519-xhs-skill-feedback-creators-v2&utm_content=badge"><img src="https://socialistic.ai/api/embed/awesome-ai-persona-skills-861cfd" alt="Try baoyu-skill on Socialistic"></a>
 </p>
 
 <p align="center">
