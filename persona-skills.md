@@ -81,6 +81,7 @@ npx skills add alchaincyf/nuwa-skill
 | 师兄.skill | 课题组师兄技术风格、解题思路与指导方式 | https://github.com/zhanghaichao520/senpai-skill |
 | 户晨风.skill | 消费现实主义视角，职业/城市分析 | https://github.com/Janlaywss/hu-chenfeng-skill |
 | VibePortrait | 从对话提炼开发者风格与技术偏好 | https://github.com/dadwadw233/VibePortrait |
+| SPECTER | 受 Harvey Specter 启发，依据已知事实与关系调整谈判、领导和困难对话的应对方式 | https://github.com/YannisKiefer/harvey-specter |
 
 ---
 
